@@ -1,3 +1,5 @@
+Predicting insurance company customer renewal probability and optimizing sales agents time spent on each customer.
+
 Solution for McKinsey Data Scientist Hiring Hackathon.
 https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon-4/
 
